@@ -1,4 +1,4 @@
-![image](https://github.com/neeyooo/bot-absen/assets/148869922/f182d9d5-32cb-46de-a0a0-237a20834102)# BOT ABSEN **(Powered by Python.)**
+# BOT ABSEN **(Powered by Python.)**
 
 #### This application/bot will perform its tasks automatically by filling out data on a Google Form and will also send it automatically. The results will be sent via a Telegram BOT to the user (myself).
 
