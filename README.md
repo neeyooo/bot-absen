@@ -1,9 +1,9 @@
-# BOT ABSEN **(Powered by Python.)**
+# BOT ABSEN **(Powered by Python)**
 
 #### This application/bot will perform its tasks automatically by filling out data on a Google Form and will also send it automatically. The results will be sent via a Telegram BOT to the user (myself).
 
 ------------
-Made with Python 3.11</br>
+Made with Python 3.x</br>
 Package needed:
 - aiogram
 - selenium
@@ -11,7 +11,7 @@ Package needed:
 - aioschedule
 
 ------------
-How to re-run this file? No it can't be done directly. You have to modify the code.
+How to run this file? No it can't be done directly. You've got to tweak the code quite a bit. It's better to treat this project as an idea or reference rather than making direct changes to the code within the project
 ------------
 Screenshot: </br>
 ![alt text](https://github.com/neeyooo/bot-absen/blob/main/images/images2.png?raw=true)
